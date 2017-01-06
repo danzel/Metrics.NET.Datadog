@@ -1,4 +1,5 @@
 #Metrics.NET.Datadog
+[![Build status](https://ci.appveyor.com/api/projects/status/f2vv2lt322g4dvvv?svg=true)](https://ci.appveyor.com/project/danzel/metrics-net-datadog)
 ## What is the Datadog Reporter for Metrics.NET
 The [Metrics.NET](https://github.com/Recognos/Metrics.NET) library provides a way of instrumenting applications with custom metrics (timers, histograms, counters etc) that can be reported in various ways and can provide insights on what is happening inside a running application.
 
