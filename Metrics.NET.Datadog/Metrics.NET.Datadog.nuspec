@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Metrics.NET.Datadog</id>
+    <version>1.0.0</version>
+    <authors>danzel</authors>
+    <owners>danzel</owners>
+    <licenseUrl>https://github.com/danzel/Metrics.NET.Datadog/blob/master/LICENCE</licenseUrl>
+    <projectUrl>https://github.com/danzel/Metrics.NET.Datadog</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provide Datadog support to Metrics.NET</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Metrics, Datadog</tags>
+    <dependencies>
+      <dependency id="Metrics.NET" version="0.4.7" />
+      <dependency id="Newtonsoft.Json" version="9.0.1" />
+    </dependencies>
+  </metadata>
+</package>
