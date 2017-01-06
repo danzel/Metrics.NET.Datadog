@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Metrics.NET.Datadog
+namespace Metrics.NET.Datadog.Models
 {
-    public class Class1
-    {
-    }
+	public class SeriesJson
+	{
+		public MetricJson[] Series { get; set; }
+	}
 }
